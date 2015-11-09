@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nodes>
+    <node>
+        <id>0</id>
+        <name>RFC WRONG</name>
+        <url>http://rfvvvc2.ru/917.rfc/original</url>
+        <attempts>33</attempts>
+        <successfulAttempts>0</successfulAttempts>
+        <lastTime>0</lastTime>
+        <bestTime>0</bestTime>
+        <worstTime>0</worstTime>
+    </node>
+    <node>
+        <id>2</id>
+        <name>YANDEX</name>
+        <url>http://yandex.ru</url>
+        <attempts>34</attempts>
+        <successfulAttempts>34</successfulAttempts>
+        <lastTime>40</lastTime>
+        <bestTime>20</bestTime>
+        <worstTime>142</worstTime>
+    </node>
+    <node>
+        <id>3</id>
+        <name>GOOGLE</name>
+        <url>https://google.com</url>
+        <attempts>34</attempts>
+        <successfulAttempts>34</successfulAttempts>
+        <lastTime>5</lastTime>
+        <bestTime>2</bestTime>
+        <worstTime>101</worstTime>
+    </node>
+    <node>
+        <id>4</id>
+        <name>ORACLE DOC</name>
+        <url>https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html</url>
+        <attempts>34</attempts>
+        <successfulAttempts>34</successfulAttempts>
+        <lastTime>42</lastTime>
+        <bestTime>34</bestTime>
+        <worstTime>43</worstTime>
+    </node>
+</nodes>
